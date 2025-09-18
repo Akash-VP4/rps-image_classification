@@ -1,2 +1,6 @@
 dataset
 output
+data_rps_test
+new_dataset
+94acc_mixdataset.pth
+95acc_mixdataset_almost.pth
